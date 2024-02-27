@@ -19,7 +19,21 @@ namespace AJ_PD_v17
 
         private void btn_aprekinat_Click(object sender, EventArgs e)
         {
-            
+            string ediens = "";
+
+            if (r_banans.Checked)
+            {
+                ediens = "banans";
+            }
+            else if (r_sviestmaize.Checked)
+            {
+                ediens = "sviestmaize";
+            }
+            else if (r_abols.Checked)
+            {
+                ediens = "abols";
+            }
+            double daudzums = Convert.ToDouble(nr_daudzums.Value);
         }
 
        
