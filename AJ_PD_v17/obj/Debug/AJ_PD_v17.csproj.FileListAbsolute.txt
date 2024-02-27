@@ -1,0 +1,10 @@
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\bin\Debug\AJ_PD_v17.exe.config
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\bin\Debug\AJ_PD_v17.exe
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\bin\Debug\AJ_PD_v17.pdb
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\obj\Debug\AJ_PD_v17.csprojAssemblyReference.cache
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\obj\Debug\AJ_PD_v17.Form1.resources
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\obj\Debug\AJ_PD_v17.Properties.Resources.resources
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\obj\Debug\AJ_PD_v17.csproj.GenerateResource.cache
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\obj\Debug\AJ_PD_v17.csproj.CoreCompileInputs.cache
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\obj\Debug\AJ_PD_v17.exe
+Z:\10.klase_C#\AJ_PD_V17\AJ_PD_v17\obj\Debug\AJ_PD_v17.pdb
