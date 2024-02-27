@@ -36,7 +36,10 @@ namespace AJ_PD_v17
             double daudzums = Convert.ToDouble(nr_daudzums.Value);
         }
 
-       
+        private void KalorijuAprekins(string nosaukums, double daudzums)
+        {
+
+        }
 
         private void label5_Click(object sender, EventArgs e)
         {
