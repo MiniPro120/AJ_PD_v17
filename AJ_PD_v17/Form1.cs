@@ -34,6 +34,7 @@ namespace AJ_PD_v17
                 ediens = "abols";
             }
             double daudzums = Convert.ToDouble(nr_daudzums.Value);
+            KalorijuAprekins(ediens, daudzums);
         }
 
         private void KalorijuAprekins(string nosaukums, double daudzums)
