@@ -38,6 +38,23 @@ namespace AJ_PD_v17
 
         private void KalorijuAprekins(string nosaukums, double daudzums)
         {
+            double kalorijas = 0;
+
+
+            if (nosaukums == "banans")
+            {
+                kalorijas = 105 * daudzums;
+            }
+            else if (nosaukums == "sviestmaize")
+            {
+                kalorijas = 75 * daudzums;
+            }
+            else if (nosaukums == "abols")
+            {
+                kalorijas = 55 * daudzums;
+            }
+
+            txt_izvade.Text = kalorijas.ToString();
 
         }
 
